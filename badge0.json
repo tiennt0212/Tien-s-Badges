@@ -1,0 +1,14 @@
+{
+  "backgroundColor": "#d0f836",
+  "certificateAnimationUri": "https://crypto-badge-static-m1.s3.ap-southeast-1.amazonaws.com/assets/video_preview_h264.mp4",
+  "certificateImageUri": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+  "claimable": true,
+  "criteria": "Test it [here](https://test-kitchen-sink.canpass.me/claimable-sbt)",
+  "description": "This badge has created for on hand testing",
+  "issuer": "0xe891B53c169e21fE6DDfa4769EA4b8e092b0badc",
+  "metadataVersion": 1,
+  "name": "Beautiful People",
+  "properties": "{\"version\":{\"name\":\"Version\",\"value\":3},\"difficulty\":{\"name\":\"Difficulty\",\"displayName\":\"Hard\",\"value\":3}}",
+  "tags": ["Football"],
+  "textColor": "#000000"
+}
