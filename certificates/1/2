@@ -1,0 +1,18 @@
+{
+  "metadataVersion": 1,
+  "backgroundColor": "#d0f836",
+  "textColor": "#000000",
+  "issuer": "0x9fEFef09af5Fd0AAeEf34eb0319AD28e933e2889",
+  "claimable": true,
+  "name": "Beautiful People",
+  "description": "This badge has created for on hand testing 1-2",
+  "criteria": "Test it [here](https://test-kitchen-sink.canpass.me/claimable-sbt)",
+  "properties": "{\"version\":{\"name\":\"Version\",\"value\":3},\"difficulty\":{\"name\":\"Difficulty\",\"displayName\":\"Hard\",\"value\":3}}",
+  "tags": ["Football"],
+  "imageUri": "string",
+  "categories": ["Sports", "string"],
+  "animationUri": "https://crypto-badge-static-m1.s3.ap-southeast-1.amazonaws.com/assets/video_preview_h264.mp4",
+  "transferable": true,
+  "winner": "Tien Nguyen 0-2",
+  "evidence": "markdown"
+}
