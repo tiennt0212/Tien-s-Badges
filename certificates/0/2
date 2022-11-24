@@ -8,11 +8,16 @@
   "description": "This badge has created for on hand testing 0-2",
   "criteria": "Test it [here](https://test-kitchen-sink.canpass.me/claimable-sbt)",
   "properties": "{\"version\":{\"name\":\"Version\",\"value\":3},\"difficulty\":{\"name\":\"Difficulty\",\"displayName\":\"Hard\",\"value\":3}}",
-  "tags": ["Football"],
+  "tags": [
+    "Football"
+  ],
   "imageUri": "string",
-  "categories": ["Sports", "string"],
+  "categories": [
+    "Sports",
+    "string"
+  ],
   "animationUri": "https://crypto-badge-static-m1.s3.ap-southeast-1.amazonaws.com/assets/video_preview_h264.mp4",
   "transferable": true,
-  "winner": "Tien Nguyen 0-2",
+  "winner": "0xD2de936b6332D52A2bEC1350F1D3bAf76410633F",
   "evidence": "markdown"
 }
