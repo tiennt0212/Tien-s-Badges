@@ -1,6 +1,6 @@
 {
     "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
-    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/0.png",
+    "image": "https://ipfs.io/ipfs/QmSTRZiUJ8ePYkjVy3dyBC5yzNhbhjtKXMz6PbbTZr8gAJ",
     "name": "Danijuice",
     "attributes": [
         {
